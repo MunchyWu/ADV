@@ -3,4 +3,5 @@
 Digital input project
 
 Example of displaying an image
-![image description] (01.jpg)
+
+![image description] (Week3/01.JPG)
