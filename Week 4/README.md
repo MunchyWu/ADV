@@ -14,7 +14,7 @@
   
 - Wind up the shutter again (while winding
   > - Reflect mirror ***FOLD DOWN***
-  > + Iris OPENS
+  > - Iris OPENS
 * Release again
 
 ![image description](hasselblad_ad.jpeg)
