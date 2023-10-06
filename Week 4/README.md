@@ -18,7 +18,7 @@
 * Release again
 
 + <sub>Hasselblad Advertisements 1970</sub>
-+ ![Hasselblad Advertisement](hasselblad_ad.jpeg) { width=10px }
++ ![Hasselblad Advertisement](hasselblad_ad.jpeg){:width="400px"}
 
 
 ## 2.How does my project works
