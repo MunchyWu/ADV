@@ -13,8 +13,8 @@
   > - Reflect mirror FOLD DOWN? ***NOOO!*** It doesn't
   
 - Wind up the shutter again (while winding
-  > Reflect mirror ***FOLD DOWN***
-  > Iris OPENS
+  > - Reflect mirror ***FOLD DOWN***
+  > + Iris OPENS
 * Release again
 
 ![image description](hasselblad_ad.jpeg)
