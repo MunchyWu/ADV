@@ -27,10 +27,10 @@
 * And that mirror becomes a button, which can create an open/close circuit
 - <sub>Winding Reminder Ideation</sub>
 - <img src="Munchy_CameraReady_Idea.jpg" alt="Winding Reminder Ideation" width="600"/>
+
+## 3.I Wish
 + Hopefully, I can make my chip read if it is an open/closed circuit
-- By reading the circuit, and using if/else logic to turn on/off two lights
-
-
+* By reading the circuit, and using if/else logic to turn on/off two lights
 - <sub>Winding Reminder Circuit Diagram</sub>
 - <img src="Week4_Diagram_Munchy.jpg" alt="Winding Reminder Circuit Diagram" width="600"/>
 
