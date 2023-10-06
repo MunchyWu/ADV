@@ -29,7 +29,7 @@
 - By reading the circuit, and using if/else logic to turn on/off two lights
 
 + <sub>Winding Reminder Ideation</sub>
-+ ![image description](Munchy_CameraReady_Idea.jpg)
-- <sub>Winding Reminder Circuit Diagram</sub> 
-- ![image description](Week4_Diagram_Munchy.jpg)
++ <img src="Munchy_CameraReady_Idea.jpg" alt="Winding Reminder Ideation" width="600"/>
+- <sub>Winding Reminder Circuit Diagram</sub>
+- <img src="Week4_Diagram_Munchy.jpg" alt="Winding Reminder Circuit Diagram" width="600"/>
 
