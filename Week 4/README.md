@@ -22,8 +22,8 @@
 
 ## 2.How does my project works
 
-- Every time you need to take a photo, you need to wind the mirror down.
-* And that mirror becomes a button, which can create open/close circuit
+- Every time you want to take a photo, you need to wind the mirror down.
+* And that mirror becomes a button, which can create an open/close circuit
 + Hopefully, I can make my chip read if it is an open/closed circuit
 - By reading the circuit, and using if/else logic to turn on/off two lights
 
