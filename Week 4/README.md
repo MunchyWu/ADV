@@ -18,3 +18,16 @@
 * Release again
 
 ![image description](hasselblad_ad.jpeg)
+<sub>Hasselblad Advertisements 1970</sub> 
+
+## 2.How does my project works
+
+- Every time you need to take a photo, you need to wind the mirror down.
+* And that mirror becomes a button, which can create open/close circuit
++ Hopefully, I can make my chip read if it is an open/closed circuit
+- By reading the circuit, and using if/else logic to turn on/off two lights
+
+![image description](Munchy_CameraReady_Idea.jpg)
+<sub>Winding Reminder Ideation</sub> 
+![image description](Week4_Diagram_Munchy.jpg)
+<sub>Winding Reminder Circuit Diagram</sub> 
