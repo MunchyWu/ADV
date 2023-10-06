@@ -18,7 +18,7 @@
 * Release again
 
 + <sub>Hasselblad Advertisements 1970</sub>
-+ <img src="hasselblad_ad.jpeg" alt="Hasselblad Advertisement" width="300"/>
++ <img src="hasselblad_ad.jpeg" alt="Hasselblad Advertisement" width="600"/>
 
 
 ## 2.How does my project works
