@@ -17,8 +17,9 @@
   > - Iris OPENS
 * Release again
 
-+ ![image description](hasselblad_ad.jpeg)
 + <sub>Hasselblad Advertisements 1970</sub> 
++ <sub>Hasselblad Advertisements 1970</sub>  ![image description](hasselblad_ad.jpeg)
+
 
 ## 2.How does my project works
 
@@ -27,7 +28,8 @@
 + Hopefully, I can make my chip read if it is an open/closed circuit
 - By reading the circuit, and using if/else logic to turn on/off two lights
 
-+ ![image description](Munchy_CameraReady_Idea.jpg)
 + <sub>Winding Reminder Ideation</sub>
-- ![image description](Week4_Diagram_Munchy.jpg)
++ ![image description](Munchy_CameraReady_Idea.jpg)
 - <sub>Winding Reminder Circuit Diagram</sub> 
+- ![image description](Week4_Diagram_Munchy.jpg)
+
