@@ -7,11 +7,10 @@
 + (what happened inside the camera
   > - Reflect mirror FOLD UP
   > - shutter curtain OPENS
-  > 
-  > Iris in lens OPENS
-  > Iris in lens CLOSES
-  > shutter curtain CLOSES
-  > Reflect mirror FOLD DOWN? NOOO! It doesn't
+  > - Iris in lens OPENS
+  > - Iris in lens CLOSES
+  > - shutter curtain CLOSES
+  > - Reflect mirror FOLD DOWN? NOOO! It doesn't
   
 - Wind up the shutter again (while winding
   > Reflect mirror FOLD DOWN
