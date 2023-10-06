@@ -17,8 +17,8 @@
   > - Iris OPENS
 * Release again
 
-![image description](hasselblad_ad.jpeg)
-<sub>Hasselblad Advertisements 1970</sub> 
++ ![image description](hasselblad_ad.jpeg)
++ <sub>Hasselblad Advertisements 1970</sub> 
 
 ## 2.How does my project works
 
