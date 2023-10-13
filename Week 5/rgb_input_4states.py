@@ -79,13 +79,16 @@ def loop():
       #statetimer是计时器，timetick是时钟。让他们相等 计时器就可以归零
   elif (state == 'READY'):
       print('Ready to shoot, change from yellow to green')
-      rgb.fill_color(get_color(i, 255, 0))
-          time.sleep_ms(1000)
-      state_timer = time.tick_ms()
-      if (input_pin.value() == 0):
-          if(state != 'UNWIND'):
-              print('change to UNWIND')
-              state = 'UNWIND'
+      rgb.fill_color(get_color(0, 255, 0))
+      time.sleep_ms(1000)
+      #state_timer = time.tick_ms()
+      if (input_pin.value() == 1):
+          print('change to UNWIND')
+          state = 'UNWIND'
+          #if(state != 'UNWIND'):
+          
+          
+          #check_input()
           
     
 '''
