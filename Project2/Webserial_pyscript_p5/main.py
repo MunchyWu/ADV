@@ -54,9 +54,9 @@ def draw():
     elif(button_val == 0):
       button_state = 'UP'
         
-    if(button_val == 0):
+    if(button_val == 1):
       # do 300 milliseconds of every 1000 milliseconds..
-      if(p5.millis() % 1000 < 150):
+      if(p5.millis() % 1200 < 150):
 
 
 
@@ -83,7 +83,7 @@ def draw():
           p5.rect(330 + i*4, 38 + i*4, 255 - i*8, 80 - i*8, 40-i*2)
           p5.colorMode(p5.RGB)
 
-      if(p5.millis() % 1000 < 80):
+      if(p5.millis() % 1200 < 80):
         p5.fill(20)
         p5.noStroke()
         p5.circle(330, 357, 90)
