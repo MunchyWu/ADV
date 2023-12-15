@@ -54,7 +54,7 @@ def draw():
     elif(button_val == 0):
       button_state = 'UP'
         
-    if(button_val == 1):
+    if(button_val == 0 ): #use 1 if connected to a board
       # do 300 milliseconds of every 1000 milliseconds..
       if(p5.millis() % 1200 < 150):
 
