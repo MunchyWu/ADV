@@ -1,4 +1,9 @@
-# Hasselblad Winding Reminder
+# 360 Photo booth
+<img src="IMG_6811.jpg" alt="Parts" width="600"/>
+
+## 1. Ideadtions
+
+<img src="IMG_6811.jpg" alt="Parts" width="600"/>
 <img src="IMG_6811.jpg" alt="Parts" width="600"/>
 
 ## 1.How to take a photo with Hasselblad 500cm
