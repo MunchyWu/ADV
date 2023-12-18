@@ -14,7 +14,7 @@
 <img src="3D_modeling.jpg" alt="3D Modeling" width="800"/>
 
 ## How does it work
-<img src="Moving1.gif" alt="Moving1" width="400"/> <img src="Moving2.gif" alt="Moving2" width="400"/>
+
 
 - Place an object on the tower
 * The light sensor on the tower will receive a lower light value
@@ -26,5 +26,7 @@
   > - Servo_Shutter will push the Shutter button to take a photo
   > - Servo_Shutter back to rest position
   > - Wait 7 seconds
+
+<img src="Moving1.gif" alt="Moving1" width="400"/> <img src="Moving2.gif" alt="Moving2" width="400"/>
   
 
