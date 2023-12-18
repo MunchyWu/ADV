@@ -8,7 +8,8 @@
 
 
 
-## 1.How does it work
+## Connections
+<img src="WechatIMG627.png" alt="Ideation2" width="600"/>
 
 - Before taking any photos, put in a roll of film, Lock the... Take off the Len cap, and ***Pull out the dark slide*** (Jason is doing some cool stuff with that)
 * Release the shutter. 
