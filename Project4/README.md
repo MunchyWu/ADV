@@ -6,7 +6,9 @@
 <img src="WechatIMG626.png" alt="Ideation1" width="600"/>
 <img src="WechatIMG627.png" alt="Ideation2" width="600"/>
 
-## 1.How to take a photo with Hasselblad 500cm
+
+
+## 1.How does it work
 
 - Before taking any photos, put in a roll of film, Lock the... Take off the Len cap, and ***Pull out the dark slide*** (Jason is doing some cool stuff with that)
 * Release the shutter. 
