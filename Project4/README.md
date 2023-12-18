@@ -1,5 +1,5 @@
 # 360 Photo booth
-<img src="IMG_6811.jpg" alt="Parts" width="800"/>
+<img src="IMG_6811.jpg" alt="Parts" width="400"/>  <img src="IMG_6802.JPG" alt="Parts" width="400"/>
 
 ## 1. Ideations
 
@@ -7,13 +7,13 @@
 
 
 
-## Connections
+## 2. Connections
 <img src="Connection.jpg" alt="Connections" width="800"/>
 
-## 3D Modeling
+## 3. 3D Modeling
 <img src="3D_modeling.jpg" alt="3D Modeling" width="800"/>
 
-## How does it work
+## 4. How does it work
 
 
 - Place an object on the tower
