@@ -1,15 +1,20 @@
 # 360 Photo booth
-<img src="IMG_6811.jpg" alt="Parts" width="600"/>
+<img src="IMG_6811.jpg" alt="Parts" width="800"/>
 
 ## 1. Ideations
 
-<img src="WechatIMG626.png" alt="Ideation1" width="600"/>
-<img src="WechatIMG627.png" alt="Ideation2" width="600"/>
+<img src="WechatIMG626.png" alt="Ideation1" width="400"/> <img src="WechatIMG627.png" alt="Ideation2" width="400"/>
 
 
 
 ## Connections
-<img src="Connection.jpg" alt="Connections" width="600"/>
+<img src="Connection.jpg" alt="Connections" width="800"/>
+
+## 3D Modeling
+<img src="3D_modeling.jpg" alt="3D Modeling" width="800"/>
+
+## 3D Modeling
+<img src="Moving1.gif" alt="Moving1" width="400"/> <img src="Moving2.gif" alt="Moving2" width="400"/>
 
 - Before taking any photos, put in a roll of film, Lock the... Take off the Len cap, and ***Pull out the dark slide*** (Jason is doing some cool stuff with that)
 * Release the shutter. 
