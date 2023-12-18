@@ -1,10 +1,10 @@
 # 360 Photo booth
 <img src="IMG_6811.jpg" alt="Parts" width="600"/>
 
-## 1. Ideadtions
+## 1. Ideations
 
-<img src="IMG_6811.jpg" alt="Parts" width="600"/>
-<img src="IMG_6811.jpg" alt="Parts" width="600"/>
+<img src="WechatIMG626.png" alt="Ideation1" width="600"/>
+<img src="WechatIMG627.png" alt="Ideation2" width="600"/>
 
 ## 1.How to take a photo with Hasselblad 500cm
 
